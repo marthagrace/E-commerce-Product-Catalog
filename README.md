@@ -62,7 +62,7 @@ user	user123	USER
 
 📦 Running the Project
 Clone the repository:
-git clone https://github.com/DivyaAdabala07/ecommerce-product-catalog.git
+git clone https://github.com/marthagrace/ecommerce-product-catalog.git
 Navigate to the folder:
 cd ecommerce-product-catalog
 Run the project:
@@ -77,4 +77,4 @@ Swagger UI (Optional setup)
 This project is open source and available under the MIT License.
 
 🙋‍♀️ Author
-Adabala Divya Sai Suseela
+Chilakapati Martha Grace
